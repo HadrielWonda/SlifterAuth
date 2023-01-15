@@ -2,7 +2,7 @@
 
 using System.Security.Claims;
 
-namespace Microsoft.AspNetCore.Components.Authorization;
+namespace SlifterAuth.Authorization;
 
 
 public class AuthenticationState
