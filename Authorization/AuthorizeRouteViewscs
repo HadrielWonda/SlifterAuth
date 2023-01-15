@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Components.Rendering;
 
-namespace Microsoft.AspNetCore.Components.Authorization;
+namespace SlifterAuth.Authorization;
 
 
 public sealed class AuthorizeRouteView : RouteView
