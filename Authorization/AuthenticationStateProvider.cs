@@ -1,5 +1,3 @@
-
-
 namespace SlifterAuth.Authorization;
 
 
