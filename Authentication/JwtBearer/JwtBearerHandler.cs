@@ -29,7 +29,7 @@ public class JwtBearerHandler : AuthenticationHandler<JwtBearerOptions>
         set => base.Events = value;
     }
 
-    /// <inheritdoc />
+ 
     protected override Task<object> CreateEventsAsync() => Task.FromResult<object>(new JwtBearerEvents());
 
     
