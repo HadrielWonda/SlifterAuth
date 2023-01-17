@@ -1,6 +1,6 @@
 using System;
 
-namespace Microsoft.AspNetCore.Components.Authorization;
+namespace SlifterAuth.Authorization;
 
 
 internal sealed class AuthorizeDataAdapter : IAuthorizeData
