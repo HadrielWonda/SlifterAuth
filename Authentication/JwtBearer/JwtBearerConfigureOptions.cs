@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Microsoft.AspNetCore.Authentication;
+namespace SlifterAuth.Authentication;
 
 internal sealed class JwtBearerConfigureOptions : IConfigureNamedOptions<JwtBearerOptions>
 {
